@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yusuppov/to-do-list/static/css/main.d644a0f1.css",
+    "main.js": "/yusuppov/to-do-list/static/js/main.4a3fabfc.js",
+    "static/js/453.5ccdcc32.chunk.js": "/yusuppov/to-do-list/static/js/453.5ccdcc32.chunk.js",
+    "static/media/Inter-VariableFont_opsz,wght.ttf": "/yusuppov/to-do-list/static/media/Inter-VariableFont_opsz,wght.e05c5f3d1fa6a3893d84.ttf",
+    "index.html": "/yusuppov/to-do-list/index.html",
+    "main.d644a0f1.css.map": "/yusuppov/to-do-list/static/css/main.d644a0f1.css.map",
+    "main.4a3fabfc.js.map": "/yusuppov/to-do-list/static/js/main.4a3fabfc.js.map",
+    "453.5ccdcc32.chunk.js.map": "/yusuppov/to-do-list/static/js/453.5ccdcc32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d644a0f1.css",
+    "static/js/main.4a3fabfc.js"
+  ]
+}
