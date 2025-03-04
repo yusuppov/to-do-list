@@ -2,7 +2,7 @@
   "name": "project-name",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/yusuppov/to-do-list",
+  "homepage": "https://yusuppov.github.io/to-do-list",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-regular-svg-icons": "^6.7.2",
